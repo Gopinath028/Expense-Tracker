@@ -450,7 +450,7 @@ GET /api/v1/dashboard/analytics # Advanced analytics
 
 ### Backend Deployment Options
 
-#### 1. **Heroku** (Recommended for beginners)
+
 
 ```bash
 # Install Heroku CLI and login
@@ -732,16 +732,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ **Distribution**: Distribute the software
 - ✅ **Private Use**: Use for private projects
 - ❗ **Liability**: Software provided "as is"
-- ❗ **Warranty**: No warranty provided
-
-## 👨‍💻 Author & Maintainer
-
-**Nhan Pham Thanh**
-
-- 🐙 **GitHub**: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🌐 **Portfolio**: [Your Portfolio Website]
-- 📧 **Email**: [your.email@example.com]
+- ❗ **Warranty**: No warranty pro
 
 ## 🙏 Acknowledgments
 
@@ -760,51 +751,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MDN Web Docs** for web standards and best practices
 - **React Documentation** for excellent learning resources
 
-### Special Thanks
+#
 
-- All contributors who help improve this project
-- Users who provide feedback and bug reports
-- Open source maintainers who make development possible
-- The developer community for sharing knowledge and tools
 
-## 📞 Support & Community
-
-### Getting Support
-
-- 📖 **Documentation**: Start with this README and component documentation
-- 🐛 **Bug Reports**: Create detailed issues on GitHub
-- 💡 **Feature Requests**: Share your ideas through GitHub issues
-- ❓ **Questions**: Use GitHub Discussions for general questions
-
-### Community Guidelines
-
-- Be respectful and constructive in all interactions
-- Provide detailed information when reporting issues
-- Search existing issues before creating new ones
-- Help others when you can share knowledge
-- Follow the code of conduct in all community spaces
-
-### Stay Updated
-
-- ⭐ **Star** the repository to show support
-- 👀 **Watch** for updates and new releases
-- 🔔 **Subscribe** to release notifications
-- 🐦 **Follow** on social media for updates
-
----
-
-## 🎯 Quick Links
-
-| Resource             | Link                                                                                                 | Description                      |
-| -------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 🚀 **Live Demo**     | [Coming Soon]                                                                                        | Try the application online       |
-| 📖 **Backend Docs**  | [Backend README](./BackEnd/README.md)                                                                | API documentation and setup      |
-| 📖 **Frontend Docs** | [Frontend README](./FrontEnd/README.md)                                                              | UI components and configuration  |
-| 🐛 **Issues**        | [GitHub Issues](https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker/issues)           | Bug reports and feature requests |
-| 💬 **Discussions**   | [GitHub Discussions](https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker/discussions) | Community Q&A and ideas          |
-| 📋 **Project Board** | [GitHub Projects](https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker/projects)       | Development roadmap              |
-
----
 
 </div>
 
